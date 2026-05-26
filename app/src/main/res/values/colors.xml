@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pulse_navy">#10172A</color>
+    <color name="pulse_indigo">#312E81</color>
+    <color name="pulse_violet">#7C3AED</color>
+    <color name="pulse_cyan">#06B6D4</color>
+    <color name="pulse_mint">#34D399</color>
+    <color name="pulse_rose">#FB7185</color>
+    <color name="pulse_orange">#F59E0B</color>
+    <color name="pulse_white">#F8FAFC</color>
+    <color name="pulse_soft">#DDEAFE</color>
+    <color name="pulse_panel">#CCFFFFFF</color>
+    <color name="pulse_dark_text">#172033</color>
+</resources>
